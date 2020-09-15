@@ -1,3 +1,2 @@
 # EEGproject
-
-# Scripts used for EEG project
+Scripts used for EEG project
